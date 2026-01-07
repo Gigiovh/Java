@@ -6,10 +6,10 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    Scanner caneta= new Scanner(System.in);
+	    Scanner entrada= new Scanner(System.in);
 	    
 		System.out.println(" Digite um número: ");
-		double n1= caneta.nextDouble();
+		double n1= entrada.nextDouble();
 		
 		if(n1>20 || n1<90 ){
 		    System.out.println(" O número está comprimido entre 20 e 90!: ");
