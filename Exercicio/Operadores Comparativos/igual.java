@@ -7,10 +7,10 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    Scanner caneta= new Scanner(System.in);
+	    Scanner scann= new Scanner(System.in);
 	    
 		System.out.println(" Digite um número: ");
-		double n1= caneta.nextDouble();
+		double n1= scann.nextDouble();
 		
 		if(n1>20 ){
 		    System.out.println(" É maior que 20 o número: "+n1);
