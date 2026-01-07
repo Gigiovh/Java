@@ -8,13 +8,13 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    Scanner tati= new Scanner(System.in);
+	    Scanner entrada= new Scanner(System.in);
 		System.out.println(" Escreva seu nome: ");
-		String nm= tati.nextLine();
+		String nm= entrada.nextLine();
 		System.out.println(" Escreva a nota da prova 1: ");
-		double p1= tati.nextDouble();
+		double p1= entrada.nextDouble();
 		System.out.println(" Escreva a nota da prova 2:  ");
-		double p2= tati.nextDouble();
+		double p2= entrada.nextDouble();
 		
 		double Média= (p1+p2)/2;
 		
