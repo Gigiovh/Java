@@ -7,9 +7,9 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    Scanner ana= new Scanner(System.in);
+	    Scanner entrada= new Scanner(System.in);
 		System.out.println(" Digite um número: ");
-		double n1= ana.nextDouble();
+		double n1= entrada.nextDouble();
 		if(n1%2==0){
 		    System.out.println(" O número é par ");
 		}else {
