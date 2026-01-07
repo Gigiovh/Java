@@ -9,9 +9,9 @@ public class Main
 	    Scanner caneta= new Scanner(System.in);
 	    
 		System.out.println(" Digite um número: ");
-		double n1= caneta.nextDouble();
+		double n1= entrada.nextDouble();
 		System.out.println(" Digite um número: ");
-		double n2= caneta.nextDouble();
+		double n2= entrada.nextDouble();
 		
 		double soma= n1+n2;
 		
