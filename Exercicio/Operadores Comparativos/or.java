@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class Main
 { 
     public static void main (String[]args) {
-    Scanner teste= new Scanner(System.in);
+    Scanner entrada= new Scanner(System.in);
     System.out.println(" Escreva o nome da capital do Brasil ");
-    String nm= teste.nextLine();
+    String nm= entrada.nextLine();
 if(nm.equals("BRASÍLIA")||nm.equals("Brasília")){
     System.out.println("CORRETO");
 }else{
