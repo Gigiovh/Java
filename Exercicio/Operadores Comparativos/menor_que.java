@@ -12,9 +12,9 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    Scanner ft= new Scanner(System.in);
+	    Scanner entrada= new Scanner(System.in);
 		System.out.println(" Digite a idade do nadador: ");
-		int id= ft.nextInt();
+		int id= entrada.nextInt();
 		if (id>4 && id<8){
 		    System.out.println(" Infantil A ");
 		} else if(id>7&& id<12){
