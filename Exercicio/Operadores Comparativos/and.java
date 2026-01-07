@@ -10,9 +10,9 @@ import java.util.Scanner;
 public class Main
 {
 	public static void main(String[] args) {
-	    Scanner ft= new Scanner(System.in);
+	    Scanner scann= new Scanner(System.in);
 		System.out.println(" Digite o índice de poluição da empresa: ");
-		double id= ft.nextDouble();
+		double id= scann.nextDouble();
 		if (id>0.04 && id<0.26){
 		    System.out.println(" Aceitável");
 		} else if(id>0.2&& id<0.4){
