@@ -20,15 +20,6 @@
 3. **Estruturas de Condição**  
    Exercícios que exploram o uso de `if`, `elif` e `else` para tomada de decisões no programa.
 
-4. **Estruturas de Repetição**  
-   Exercícios com laços de repetição (`for` e `while`), permitindo repetir blocos de código de forma controlada.
-
-5. **Funções em Python**  
-   Exercícios voltados à criação e utilização de funções, incentivando a organização e reutilização do código.
-
-6. **Listas**  
-   Exercícios que abordam a criação, manipulação e acesso a listas, uma das principais estruturas de dados do Python.
-
 ---
 <br>
 
