@@ -1,5 +1,5 @@
 /******************************************************************************
-21)	 Faça um programa que leia dois números e imprima-os em ordem decrescente (suponha números diferentes).
+ Faça um programa que leia dois números e imprima-os em ordem decrescente (suponha números diferentes).
 
 
 *******************************************************************************/
