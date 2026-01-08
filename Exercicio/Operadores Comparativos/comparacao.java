@@ -1,5 +1,5 @@
 /******************************************************************************
-22)	 Faça um programa que leia três números e imprima o maior número(suponha números diferentes).
+Faça um programa que leia três números e imprima o maior número(suponha números diferentes).
 
 *******************************************************************************/
 import java.util.Scanner;
